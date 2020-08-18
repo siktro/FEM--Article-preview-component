@@ -1,0 +1,8 @@
+.DS_Store
+.cache
+
+node_modules/
+
+design/sketch
+
+style-guide.md
