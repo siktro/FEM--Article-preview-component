@@ -3,6 +3,7 @@
 
 node_modules/
 
+dist
 design/sketch
 
 style-guide.md

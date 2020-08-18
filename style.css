@@ -48,7 +48,7 @@ ul {
 .card {
   overflow: hidden;
 
-  margin: 2em 6em;
+  margin: 2em 1em;
   background-color: #fff;
   border-radius: 10px;
 }
@@ -192,6 +192,7 @@ ul {
     display: flex;
     max-width: 730px;
     overflow: visible;
+    margin: 2em 6em;
   }
 
   .card__image {
