@@ -13,5 +13,3 @@ You can find the original design in the `/design` folder.
 ## Challenge
 
 This project was created in pure HTML/CSS/JS and built with [Parcel](https://github.com/parcel-bundler/parcel).
-
-Built project located at `/dist` folder.
